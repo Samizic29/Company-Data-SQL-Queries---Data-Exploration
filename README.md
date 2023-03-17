@@ -2,7 +2,7 @@
 
 ## Dataset
 
-> This is the dataset about a company data containing different tables; employee, department, dependent, department location, project, and work on. Data exploration was performed by using SQL to query the data in other to identify and uncover trends between the tables.
+> This is the dataset about a company data containing different tables; employee, department, dependent, department location, project, and work on. Performed multiple queries using SQL skills; Join, Temporary tables, Creating Views, Aggregate Functions on the company dataset to explore the relationship between the tables.
 
 - Employee table: This dataset contain 9 rows and 10 columns (Fname, Minit, Lname, SSN, Bdate, Address, Sex, Salary, Super_ssn, Dno)
 - Department table: This dataset contain 3 rows and 4 columns (dname, dnumber, mgr_ssn, mgr_start_date)
